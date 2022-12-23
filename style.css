@@ -1,0 +1,56 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+    background-image: url(bg.gif);
+    background-size: cover;
+    background-position:down;
+    min-height: 100%;
+}
+h1{
+  font-size: 22px;
+  color: white;
+  font-family: "Raleway",sans-serif;
+  padding: 10px 20px;
+}
+div h2{
+  font-size: 45px;
+  color: white;
+  font-family: "Raleway",sans-serif;
+  text-decoration: none;
+  text-align: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -200px;
+}
+hr{
+  position: fixed;
+  top: 57%;
+  left: 50.5%;
+  margin-top: -100px;
+  margin-left: -200px;
+  width: 20.5%;
+}
+P{
+  color: white;
+  font-family: "Raleway",sans-serif;
+  text-decoration: none;
+  text-align: center;
+  position: fixed;
+  top: 60%;
+  left:58%;
+  margin-top: -100px;
+  margin-left: -200px
+}
+h3{
+  color: white;
+  font-family: "Raleway",sans-serif;
+  font-size: 16px;
+  position: fixed;
+  top: 92%;
+  left: 2%;
+}
+/* CSS */ .button-9 { appearance: button; backface-visibility: hidden; background-color: #405cf5; border-radius: 6px; border-width: 0; box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset,rgba(50, 50, 93, .1) 0 2px 5px 0,rgba(0, 0, 0, .07) 0 1px 1px 0; box-sizing: border-box; color: #fff; cursor: pointer; font-family: -apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Ubuntu,sans-serif; font-size: 100%; height: 44px; line-height: 1.15; margin: 12px 0 0; outline: none; overflow: hidden; padding: 0 25px; position: relative; text-align: center; text-transform: none; transform: translateZ(0); transition: all .2s,box-shadow .08s ease-in; user-select: none; -webkit-user-select: none; touch-action: manipulation; width: 100%; } .button-9:disabled { cursor: default; } .button-9:focus { box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset, rgba(50, 50, 93, .2) 0 6px 15px 0, rgba(0, 0, 0, .1) 0 2px 2px 0, rgba(50, 151, 211, .3) 0 0 0 4px; }
